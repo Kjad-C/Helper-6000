@@ -1,0 +1,10 @@
+rich
+psutil
+questionary
+speedtest-cli
+requests
+GPUtil
+py-cpuinfo
+plyer
+wmi
+pynput
