@@ -93,7 +93,7 @@ python app.py
 ### **Made with ❤️ by kjad!**
 
 **Need Help? Found a Bug?**
-### 📩 DM me on Discord: `snowrxge`
+### 📩 DM me on Discord: `snowrxge__`
 
 </div>
 
@@ -101,4 +101,8 @@ python app.py
 
 <div align="center">
 ⭐ Star this repo if you find it useful! ⭐
+</div>
+
+<div align="center">
+readme maid by ai
 </div>
